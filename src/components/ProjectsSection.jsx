@@ -4,7 +4,7 @@ const projects = [
   {
     id: 1,
     title: "Orebi E-Commerce",
-    description: "Orebi E-Commerce is a modern,responsive e-commerce web application built using React,Tailwind CSS, and Redux.The project focuses on clean UI design,smooth user experience, and scalable state management for real-world shopping workflows.",
+    description: "Orebi is a modern,responsive e-commerce web application built using Fast and optimized React components.The project focuses on clean UI design,smooth user experience, and scalable state management for modern shopping workflows.User-Friendly interfaces. ",
     image: "/projects/orebi.png",
     tags: ["React", "TailwindCSS", "Redux"],
     demoUrl: "https://orebi-shopping-phi.vercel.app/",
@@ -13,11 +13,11 @@ const projects = [
   {
     id: 2,
     title: "Real-Time Chatting Application",
-    description: "Interactive analytics dashboard with data visualization and filtering capabilities.",
+    description: "YouChat is a real-time web-based chatting application that enables users to communicate instantly through a simple and responsive interface.It delivers fast message updates using modern frontend technologies and real-time communication methods.",
     image: "/projects/chat.png",
     tags: ["React", "Material UI", "Firebase"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://youchat-chatting-app-3tzc.vercel.app/",
+    githubUrl: "https://github.com/codewithzilan/Youchat_Chatting_App",
   },
   {
     id: 3,
