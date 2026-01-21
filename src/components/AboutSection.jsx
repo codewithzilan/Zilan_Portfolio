@@ -12,20 +12,24 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Tech Creator
+              Passionate MERN Stack Web Developer   (Specialized in Frontend)
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+            I am a MERN Stack Web Developer specializing in the design and development of scalable, 
+            high-performance web applications.I build reliable full-stack solutions that are clean, secure, and maintainable.
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+              My work focuses on crafting intuitive user interfaces, efficient backend architectures, 
+              and seamless API integrations. I prioritize performance, code quality, and best practices 
+              to ensure long-term scalability and a polished user experience.
+            </p>
+
+            <p className="text-muted-foreground">
+              Driven by continuous improvement, I stay current with modern web 
+              technologies and industry standards to deliver solutions that meet 
+              both technical and business goals.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -50,10 +54,9 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Web Development</h4>
+                  <h4 className="font-semibold text-lg">MERN Stack Development</h4>
                   <p className="text-muted-foreground">
-                    Creating responsive websites and web applications with
-                    modern frameworks.
+                    End-to-end development of full-stack applications using modern JavaScript technologies and scalable architectures.
                   </p>
                 </div>
               </div>
@@ -64,10 +67,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Web Design</h4>
+                  <h4 className="font-semibold text-lg">Frontend Engineering</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                    Building responsive, accessible, and visually refined interfaces with React and modern UI frameworks.
                   </p>
                 </div>
               </div>
@@ -79,10 +81,9 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">Backend & API Architecture</h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                    Developing secure RESTful APIs, authentication systems, and database solutions with Node.js and Express.
                   </p>
                 </div>
               </div>
