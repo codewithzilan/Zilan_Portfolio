@@ -48,12 +48,12 @@ const projects = [
   },
   {
     id: 6,
-    title: "Kiara Clothing Brand",
-    description: "It is a fully static e-commerce web template that replicates a modern online store layout with categories like jackets, accessories, and new collections.it featured products, navigation menus, shop filters, blog links, and cart functionality typical of retail sites.",
-    image: "/projects/kiara.png",
-    tags: ["HTML", "Bootstrap", "JavaScript"],
-    demoUrl: "https://kaira-web-clone.vercel.app/",
-    githubUrl: "https://github.com/codewithzilan/Kaira-Web-Clone",
+    title: "Greenleaf Modern Hospital",
+    description: "A modern private hospital website promoting compassionate, high-quality healthcare with advanced technology and personalized treatment.Website developed using Next.js & delivering high performance, scalability, and a responsive user experience.",
+    image: "/projects/greenleaf.png",
+    tags: ["TypeScript", "Next", "Tailwind CSS"],
+    demoUrl: "https://greenleaf-hospital-web.vercel.app/",
+    githubUrl: "https://github.com/codewithzilan/GreenLeaf_Hospital_Web",
   },
 ];
 
